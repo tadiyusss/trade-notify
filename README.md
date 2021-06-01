@@ -1,4 +1,4 @@
-# crypto-tracker
+# trade-notify
 This repository can help you trade in bitcoins. It gives you notification when you have reached your goal profit!
 
 SETUP:
