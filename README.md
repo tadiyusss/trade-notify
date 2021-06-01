@@ -1,5 +1,5 @@
 # crypto-tracker
-This repository can help you trade in bitcoins. It gives you when you have reached your goal profit!
+This repository can help you trade in bitcoins. It gives you notification when you have reached your goal profit!
 
 SETUP:
 1. go to https://www.nomics.com and get a api 
